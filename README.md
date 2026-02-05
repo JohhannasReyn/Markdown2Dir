@@ -20,10 +20,9 @@ Its home is here on [GitHub](https://github.com/JohhannasReyn/Markdown2Dir/).
     - If Sublime Text is already open, and you don't see it listed under:
       *Preferences* -> *Package Settings*, then you'll need to restart Sublime Text.
 
-- Download the zipped package from here, extract the folder that's inside of `Markdown2Dir_and_Dir2Md-main` and rename it `Markdown2Dir.sublime-package` 
-- Place the extracted folder in 'C:\Users\<UserName>\AppData\Roaming\Sublime Text\Packages'
-- **Re-Name `Markdown2Dir_and_Dir2Md.sublime-package` to `Markdown2Dir.sublime-package`**
-- For setting up the menu options, key-commands, or context menu entries, open the appropriate file that corresponds with the feature you wish to enable. (i.e. "Context.sublime-menu" for the context menu options, "Main.sublime-menu" for the main menu options which, when  enabled located will be under "Tools", for the keymaps, select the one for your operating system only. -- e.g. Default (Windows).sublime-keymap for Windows, etc.)
+- Download the zipped project from this repo, extract `Markdown2Dir.sublime-package` that's inside of `Markdown2Dir-main` to  'C:\Users\<UserName>\AppData\Roaming\Sublime Text\Packages'
+- **Name should be `Markdown2Dir.sublime-package`**
+- For setting up the menu options, key-commands, or context menu entries, open the appropriate file that corresponds with the feature you wish to enable. (i.e. "Context.sublime-menu" for the context menu options, "Main.sublime-menu" for the main menu options which, when enabled, are found in the menu bar, under > "Tools". As for the keymaps, if you wish to configuree -> select the one for your operating system only. -- e.g. Default (Windows).sublime-keymap for Windows, etc.)
 - Follow the instructions in each file you wish to enable which will instruct you on where to place the single '/' to enable the feature.
 
 ## Usage Options
