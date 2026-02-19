@@ -2,7 +2,7 @@
  *  The context menu is activated by putting a '/' in front of the comment
  *  on line 5, e.g. '/*' ⇾ '//*' 
  */
-/*
+//*
 [
     { "caption": "-" },
     {
